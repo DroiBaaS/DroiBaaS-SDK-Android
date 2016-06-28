@@ -5,5 +5,6 @@
   <groupId>com.droi.baas</groupId>
   <artifactId>droi-baas-android-sdk</artifactId>
   <version>0.5.2534</version>
+  <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
 </project>
