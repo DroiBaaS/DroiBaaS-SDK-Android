@@ -3,10 +3,10 @@
   <groupId>com.droi.sdk</groupId>
   <artifactId>droi-baas-android-sdk</artifactId>
   <versioning>
-    <release>0.5.2784</release>
+    <release>0.5.2789</release>
     <versions>
-      <version>0.5.2784</version>
+      <version>0.5.2789</version>
     </versions>
-    <lastUpdated>20160707025737</lastUpdated>
+    <lastUpdated>20160707070837</lastUpdated>
   </versioning>
 </metadata>
