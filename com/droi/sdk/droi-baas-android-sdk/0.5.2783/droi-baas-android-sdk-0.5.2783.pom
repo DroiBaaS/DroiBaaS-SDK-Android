@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.droi.sdk</groupId>
   <artifactId>droi-baas-android-sdk</artifactId>
-  <version>0.5.2782</version>
+  <version>0.5.2783</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
 </project>
