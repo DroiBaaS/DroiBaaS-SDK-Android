@@ -7,7 +7,17 @@ An APT provides you to generate helper class for DroiBaaS.
 ## Android Studio
 
 1. Enable APT feature in Android Studio
-	
+
+	```ruby
+	repositories {
+		mavenCentral()
+		maven {
+			url "https://github.com/DroiBaaS/DroiBaaS-APT-Android/raw/master/"
+		}
+	}
+
+	```
+
 2. Add APT maven repository
 
 	```ruby

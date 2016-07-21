@@ -1,5 +1,5 @@
 # DroiCoreSDK 
-A library provides you to use powerful DroiBaaS cloud service from your Android app. DroiCore SDK is foundation library of DroiBaaS. For more information, see [DroiBaaS](https://github.com/DroiCloud/DroiBaaS-SDK-Android).
+A library provides you to use powerful DroiBaaS cloud service from your Android app. DroiCore SDK is foundation library of DroiBaaS. For more information, see [DroiBaaS](https://github.com/DroiBaaS/DroiBaaS-SDK-Android).
 
 # Using DroiCoreSDK
 
@@ -14,7 +14,7 @@ The easiest way to use DroiCoreSDK is with gradle. Add the following lines to yo
 	repositories {
 		mavenCentral()
 		maven {
-			url "https://github.com/DroiCloud/DroiBaaS-SDK-Android/raw/master/"
+			url "https://github.com/DroiBaaS/DroiBaaS-SDK-Android/raw/master/"
 		}
 	}
 
