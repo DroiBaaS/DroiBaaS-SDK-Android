@@ -6,17 +6,4 @@
   <artifactId>analytics</artifactId>
   <version>1.0.011</version>
   <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <artifactId>droisdkcore-release</artifactId>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-  </dependencies>
 </project>
