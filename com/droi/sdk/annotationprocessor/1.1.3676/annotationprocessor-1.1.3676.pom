@@ -3,8 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.droi.sdk</groupId>
-  <artifactId>Core</artifactId>
-  <version>1.0.3378</version>
-  <packaging>aar</packaging>
+  <artifactId>annotationprocessor</artifactId>
+  <version>1.1.3676</version>
   <description>POM was created from install:install-file</description>
 </project>
