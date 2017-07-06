@@ -2,9 +2,8 @@
   <groupId>com.droi.sdk</groupId>
   <artifactId>annotationprocessor</artifactId>
   <versioning>
-    <release>1.1.3854</release>
+    <release>1.1.3893</release>
     <versions>
-      <version>1.0.3512</version>
       <version>1.1.3547</version>
       <version>1.1.3573</version>
       <version>1.1.3652</version>
@@ -14,7 +13,8 @@
       <version>1.1.3817</version>
       <version>1.1.3829</version>
       <version>1.1.3854</version>
+      <version>1.1.3893</version>
     </versions>
-    <lastUpdated>20170622082622</lastUpdated>
+    <lastUpdated>20170706091208</lastUpdated>
   </versioning>
 </metadata>
